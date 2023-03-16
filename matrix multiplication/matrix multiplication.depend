@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678914327 source:/home/salma/Documents/matrix multiplication/matMultp.c
+	<stdio.h>
+	<pthread.h>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
